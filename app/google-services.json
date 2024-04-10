@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788756065585",
+    "project_id": "push-notifaction-firebase-you",
+    "storage_bucket": "push-notifaction-firebase-you.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788756065585:android:0d249b06a3dbe3e627d410",
+        "android_client_info": {
+          "package_name": "com.example.pushnotifactionfirebaseyou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsDB7LkIrIBNaJxoJV-DUEK4B01GXkxHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
